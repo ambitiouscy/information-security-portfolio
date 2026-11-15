@@ -57,7 +57,13 @@ Performed positive and negative tests to verify that the custom rule matched the
 
 ## Project Evidence
 
-Screenshots, detection rule configuration and investigation documentation will be added to this repository.
+
+The following materials provide evidence of the lab implementation and detection testing:
+
+- [Screenshots](Screenshots/) – Evidence of Wazuh agent connectivity, Windows security event collection, process creation monitoring and custom detection testing.
+- [Custom Detection Rule](Detection-Rules/windows_process_creation_rule_100100.xml) – XML configuration for the custom Windows process-creation test detection.
+- [SOC Investigation Report](Investigation-Reports/windows-process-creation-investigation.md) – Documentation of the investigation, positive and negative tests, findings and recommendations.
+
 
 ## Learning Outcomes
 
