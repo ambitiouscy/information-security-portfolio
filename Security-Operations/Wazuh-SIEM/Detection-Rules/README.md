@@ -9,4 +9,4 @@ This folder contains custom Wazuh detection rules developed and validated in my 
 - Parent Rule: 67027
 - Configured Severity: Level 7
 
-Positive and negative test evidence will be documented here.
+Positive and negative test evidence will be documented here. 
