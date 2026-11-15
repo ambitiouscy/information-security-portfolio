@@ -1,4 +1,4 @@
-# Security-Operations/README.md
+# SOC-Projects
 
 This section showcases my practical Security Operations Centre (SOC) projects, including security monitoring, threat detection, log analysis, and incident investigation.
 
